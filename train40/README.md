@@ -25,3 +25,9 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+*** @copyRights: All rights reserve for train40 company. Tampering/download of source code without written authentication is strictly illegal and is punishable under Indian penal code.
+
+REFERENCES:
+1. https://blog.logrocket.com/angular-modules-best-practices-for-structuring-your-app/
+2. 
