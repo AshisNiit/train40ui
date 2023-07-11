@@ -30,4 +30,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 REFERENCES:
 1. https://blog.logrocket.com/angular-modules-best-practices-for-structuring-your-app/
-2. 
+2. npm install --save-dev @types/jquery
